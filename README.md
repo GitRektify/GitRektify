@@ -3,7 +3,7 @@
 ![Blockchain Developer](https://img.shields.io/badge/Blockchain-Developer-blue)
 ![Full Stack Engineer](https://img.shields.io/badge/Full--Stack-Engineer-green)
 
-**Email:** John3291122@gmail.com  
+**Email:** alan.mclaughin0527@gmail.com  
 **Location:** Orlando, FL, USA  
 **Phone:** 919 747 4079  
 [LinkedIn](https://www.linkedin.com/in/john-leslie226/)
