@@ -1,4 +1,4 @@
-# John Montgomery
+# GitRektify
 
 ![Blockchain Developer](https://img.shields.io/badge/Blockchain-Developer-blue)
 ![Full Stack Engineer](https://img.shields.io/badge/Full--Stack-Engineer-green)
